@@ -1,4 +1,4 @@
-### Criação da Store utilizando PWA
+# Criação da Store utilizando PWA
 
 # .
 
